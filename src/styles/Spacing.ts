@@ -1,0 +1,10 @@
+export const PAD = 4;
+export const PAD2 = 8;
+export const PAD3 = 12;
+export const PAD4 = 16;
+export const PAD5 = 20;
+export const PAD6 = 24;
+export const PAD7 = 28;
+export const PAD8 = 32;
+export const PAD9 = 36
+export const PAD10 = 38;
