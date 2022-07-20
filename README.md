@@ -1,7 +1,7 @@
 # React-Native-Redux-and-TypeScript-boilerplate
 
-$ git clone 
+$ git clone https://github.com/qaqnass/React-Native-Redux-and-TypeScript-boilerplate.git
 
-$ cd ReactNative-Redux-TypeScript-Boilerplate/
+$ cd React-Native-Redux-and-TypeScript-boilerplate
 
 $ npm start
